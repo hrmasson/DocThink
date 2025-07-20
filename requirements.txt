@@ -1,0 +1,13 @@
+python-dotenv
+pydantic
+requests
+bs4
+markdownify
+sentence-transformers
+fastapi
+uvicorn
+chromadb
+langchain
+keybert
+fastapi
+tqdm
