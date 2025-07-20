@@ -11,3 +11,4 @@ langchain
 keybert
 fastapi
 tqdm
+tiktoken
